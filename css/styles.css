@@ -495,9 +495,15 @@ footer {
 }
 
 .link-portfolio{
+    
     text-decoration: none;
 }
 
+.link-portfolio img {
+    display: block;
+    max-width: 100%;
+    height: auto;
+}
 .name-portfolio {
     /* margin-top: 20px; */
     margin-bottom: 4px;
